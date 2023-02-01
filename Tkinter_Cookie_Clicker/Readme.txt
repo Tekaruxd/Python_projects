@@ -5,3 +5,4 @@ Program obsahuje 3 tlačítka - Click me!, sloužící k získání sušenky po 
 			automatické získávání sušenek(CPS)
 			ukazatel sešenek, cen vylepšení a počet získanách sušenek za kliknutí/sekundu
 			a skryté úspěchy za určitý počet kliknutí  
+Vypracoval David Pokorák
